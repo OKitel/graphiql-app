@@ -2,7 +2,7 @@
 
 Our application serves as a captivating playground for GraphQL requests, allowing users to immerse themselves in the fascinating realm of **SpaceX**. Discover the wonders of space exploration, access mission details, rocket specifications, and launch histories with ease, all within an intuitive interface designed to bring the cosmos closer to your fingertips.
 
-[Link to deploy](https://graphiql-app-production.up.railway.app/)
+[Link to deploy](https://graphiql-q1npatzir-olgas-projects-8d185b9b.vercel.app/)
 
 ## Technologies Used
 

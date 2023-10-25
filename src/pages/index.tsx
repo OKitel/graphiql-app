@@ -13,7 +13,7 @@ const Auth = () => {
   return (
     <>
       <Head>
-        <title>{`RS FINAL${pathname}`}</title>
+        <title>{`GraphiQL${pathname}`}</title>
       </Head>
       <Title id="welcome" level={2}>
         {t('welcome.title')}

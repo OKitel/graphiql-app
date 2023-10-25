@@ -50,7 +50,7 @@ const Layout: FC<ILayoutProps> = ({ children }) => {
   return (
     <>
       <Head>
-        <title>RS FINAL</title>
+        <title>GraphiQL</title>
       </Head>
 
       <AntLayout style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
